@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/IboABX4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/9Sh1VJE.gif)
 
 
 
@@ -58,4 +58,3 @@ It was overwhelming to learn all the features of X-code, but it became fun when 
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-0
