@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Smart Tip*
 
-"Anish's IOS calculator" is a tip calculator application for iOS.
+"Smart Tip" is a tip calculator application for iOS.
 
 Submitted by: Anish Ketha
 
