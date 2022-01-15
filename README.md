@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-It was overwhelming to learn all the features of X-code, but it became fun when I was able to implement them in my app. It was also especially difficult to find out how to implement a number pad.
+It was overwhelming to learn all the features of X-code, but it became fun when I was able to implement them in my app. It was especially difficult to find out how to implement a number pad.
 
 ## License
 
